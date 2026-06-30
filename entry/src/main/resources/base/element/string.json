@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Screen2GIF"
+    },
+    {
+      "name": "permission_capture_screen",
+      "value": "需要录屏权限来录制屏幕内容并生成GIF动图"
+    },
+    {
+      "name": "permission_background_running",
+      "value": "需要在后台持续录制屏幕"
+    },
+    {
+      "name": "permission_write_imagevideo",
+      "value": "需要保存GIF图片到系统相册"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#0f172a"
+    },
+    {
+      "name": "module_desc",
+      "value": "鸿蒙PC录屏转GIF工具"
+    },
+    {
+      "name": "entry_desc",
+      "value": "Screen2GIF主模块"
+    }
+  ]
+}

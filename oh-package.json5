@@ -1,0 +1,12 @@
+{
+  "name": "screen2gif",
+  "version": "1.0.0",
+  "description": "鸿蒙PC录屏转GIF工具",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
